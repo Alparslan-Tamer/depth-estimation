@@ -6,6 +6,7 @@ A brief description of what this project does and who it's for
 
 ## Usage/Examples
 
+### CLI USAGE
 ```bash
 usage: cli.py [-h] input_image output_image
 
@@ -19,6 +20,10 @@ options:
   -h, --help    show this help message and exit
 ```
 
+### API USAGE
+```
+http://127.0.0.1:8000/predict
+```
 
 ## Installation
 
