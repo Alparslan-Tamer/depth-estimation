@@ -1,7 +1,7 @@
 
 # Zoe Depth Estimation
 
-A brief description of what this project does and who it's for
+This is an end-to-end python api project.
 
 
 ## Usage/Examples
